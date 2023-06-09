@@ -25,14 +25,18 @@ url_video: ''
 slides:
 ---
 
-Observatory Kipshoven is a private facility dedicated to scientific measurements and research, with a specific focus on exoplanet photometry and speckle interferometry.
+**Observatory Kipshoven** is a private observatory dedicated to scientific measurements and research, with a specific focus on photometry and speckle interferometry.
 
-The telescope at Observatory Kipshoven is a GSO Ritchey-Chrétien model. It features a 0.25-meter aperture and offers a balanced combination of field of view and resolution. The telescope has a corrected field, corrected baffling, and autofocusing capability.
+After quite a lot of setup and configuration over the years, the observatory's operation is **autonomous**. I wouldn't have time to operate it while attending university anyways. The dome has a weather sensor installed, so it opens up when the skies clear, or closes and waits if conditions are poor. 
+
+My interactions with the telescope are typically limited to reading the status messages it sends to my phone.
+
+The telescope at Observatory Kipshoven is a GSO Ritchey-Chrétien RC10. It features a 0.25-meter aperture and offers a balanced combination of field of view and resolution. The telescope has a corrected field, corrected baffling, and autofocusing capability.
 
 The telescope is undermounted on an EQ6-R mount (22kg of 20 kg limit) and thus guided off-axis with using a ZWO ASI174MM.
 
-A QHY268M camera with a IMX268 monochrome CMOS sensor is used for capturing images, replacing an earlier QHY600. 
+A QHY268M camera with a IMX268 monochrome CMOS sensor and 2" filter wheel is used for capturing images, replacing an earlier QHY600. 
 
-Observations cover a range of celestial phenomena, including exoplanets, eclipsing binary stars, variable stars, supernovae, orbiting binary stars, and applicable photocenter targets.
+Targets include exoplanets, eclipsing binary stars, variable stars, supernovae, orbiting binary stars, and applicable photocenter targets.
 
-Observations are uploaded to a local server and contributed to ExoClock.
+Observations are uploaded to a local server, published, shared, or contributed to ExoClock.
