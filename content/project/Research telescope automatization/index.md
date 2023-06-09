@@ -3,7 +3,7 @@ title: Automization and operation of research telescopes in Chile
 summary:
 tags:
   - Telescope
-date: '2016-04-27T00:00:00Z'
+date: '2021-09-01T00:00:00Z'
 share: false
 # Optional external URL for project (replaces project detail page).
 external_link: ''

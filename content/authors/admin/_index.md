@@ -20,10 +20,11 @@ bio:
 interests:
   - Astronomical Instrumentation
   - Exoplanets
-  - Optical Astronomy
-  - Astrometry
   - Speckle Interferometry
+  - Astrometry
+  - Optical Astronomy
   - Stellar Muliplicity
+  - Optics
   - Photometry
 
 
