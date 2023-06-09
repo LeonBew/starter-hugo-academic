@@ -33,17 +33,17 @@ authors:
 - L. Betti 
 - A. Biagini 
 - P. Bosch 
-- P. Br-ebourg 
-- L. Br{\'{a}}t 
+- P. Brandebourg 
+- L. Brát 
 - M. Bretton 
 - S. M. Brincat 
 - S. Brouillard 
 - A. Bruzas 
 - A. Bruzzone 
 - R. A. Buckland 
-- M. Cal{\'{o}} 
+- M. Caló
 - F. Campos 
-- A. Carre{\~{n}}o 
+- A. Carreno
 - J. A. Carrion Rodrigo 
 - R. Casali 
 - G. Casalnuovo 
@@ -71,19 +71,19 @@ authors:
 - N. Esseiva 
 - P. Evans 
 - C. Falco 
-- R. G. Farf{\'{a}}n 
-- E. Fern{\'{a}}ndez-Laj{\'{u}}s 
+- R. G. Farfán 
+- E. Fernández-Lajús 
 - S. Ferratfiat 
 - S. L. Ferreira 
 - A. Ferretti 
-- J. Fio{\l}ka 
+- J. Fiołka
 - M. Fowler 
 - S. R. Futcher 
 - D. Gabellini 
 - T. Gainey 
 - J. Gaitan 
-- P. Gajdo{\v{s}} 
-- A. Garc{\'{\i}}a-S{\'{a}}nchez 
+- P. Gajdoš
+- A. García-Sánchez
 - J. Garlitz 
 - C. Gillier 
 - C. Gison 
@@ -105,7 +105,7 @@ authors:
 - J. Jacobsen 
 - A. L. Jannetta 
 - K. Johnson 
-- P. J{\'{o}}{\'{z}}wik-Wabik 
+- P. Jóźwik-Wabik
 - A. E. Kaeouach 
 - W. Kang 
 - H. Kiiskinen 
@@ -113,7 +113,7 @@ authors:
 - Ü. Kivila 
 - B. Koch 
 - U. Kolb 
-- H. Ku{\v{c}}{\'{a}}kov{\'{a}} 
+- H. Kučáková
 - S.-P. Lai 
 - D. Laloum 
 - S. Lasota 
@@ -132,8 +132,8 @@ authors:
 - G. Marino 
 - J.-C. Mario 
 - J.-B. Marquette 
-- F. A. Mart{\'{\i}}nez-Bravo 
-- M. Ma{\v{s}}ek 
+- F. A. Martínez-Bravo 
+- M. Mašek 
 - P. Matassa 
 - P. Michel 
 - J. Michelet 
@@ -151,11 +151,11 @@ authors:
 - L. Naponiello 
 - J.-L. Naudin 
 - R. Naves 
-- D. N{\'{e}}el 
+- D. Néel 
 - R. Neito 
 - S. Neveu 
 - A. Noschese 
-- Y. Ö{\u{g}}men 
+- Y. Öğmen
 - O. Ohshima 
 - Z. Orbanic 
 - E. P. Pace 
@@ -192,7 +192,7 @@ authors:
 - S. Shadick 
 - A. F. Silva 
 - N. Sioulas 
-- V. {\v{S}}koln{\'{\i}}k 
+- V. Školník
 - M. Smith 
 - M. Smolka 
 - A. Solmaz 
@@ -205,19 +205,19 @@ authors:
 - A. Tomacelli 
 - A. Tomatis 
 - J. Trnka 
-- M. Tyl{\v{s}}ar 
+- M. Tylšar 
 - P. Valeau 
 - J.-P. Vignes 
 - A. Villa 
 - A. Vives Sureda 
 - K. Vora 
-- M. Vra{\v{s}}t'{\'{a}}k 
+- M. Vrašták 
 - D. Walliang 
 - B. Wenzel 
 - D. E. Wright 
 - R. Zambelli 
 - M. Zhang 
-- M. Z{\'{\i}}bar
+- M. Zíbar
 
 author_notes:
 

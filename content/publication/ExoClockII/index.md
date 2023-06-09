@@ -25,7 +25,7 @@ authors:
 - P. Brebourg 
 - M. Bretton 
 - S. M. Brincat 
-- M. Cal{\'{o}
+- M. Caló
 - F. Campos 
 - R. Casali 
 - R. Ciantini 
@@ -89,7 +89,7 @@ authors:
 - D. Sedita 
 - D. Shave-Wall 
 - N. Sioulas 
-- V. {\v{S}}koln{\'{\i}}k 
+- V. Školník
 - M. Smith
 - D. St-Gelais 
 - D. Stouraitis 
@@ -101,11 +101,11 @@ authors:
 - P. Valeau 
 - J.-P. Vignes 
 - K. Vora 
-- M. Vra{\v{s}}{\v{t}}{\'{a}}k 
+- M. Vrašťák
 - F. Walter
 - B. Wenzel 
 - D. E. Wright 
-- M. Z{\'{\i}}bar
+- M. Zíbar
 
 author_notes:
 

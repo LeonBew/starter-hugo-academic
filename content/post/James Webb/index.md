@@ -4,13 +4,13 @@ subtitle: The JWST (James Webb Space Telescope) was observed live using a telesc
 
 # Summary for listings and search engines
 summary: The JWST (James Webb Space Telescope) was observed live using a telescope from the desert in Chile, a few hours after it extended its sunshield while on its way to orbit L2 to take its first images. 
-
+share: false
+show_date: true
 # Link this post with a project
 projects: []
 
 # Date published
 date: '2022-01-03T00:00:00Z'
-
 
 # Is this an unpublished draft?
 draft: false
