@@ -33,11 +33,11 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: "*The Journal of Double Star Observations*"
 publication_short: ""
-
+share: false
 abstract: Speckle interferometry observations were made of double stars within 30 parsecs of Earth with a late K or M dwarf component using the Sloan r' filter on the 24-inch Planewave Telescope at El Sauce Observatory. Observations were made in January of 2022, on the 18th and 23rd. Targets were a mix of candidates with few prior observations and ones with well-defined orbits. Seven targets were successfully observed. Three targets had defined orbits, three had orbital uncertainty, and one target, ARG 72AB, appears to not be gravitationally bound. Further research is needed to determine the behavior of the uncertain targets
 
 tags:
-- Source Themes
+
 featured: false
 
 # links:

@@ -7,7 +7,7 @@ authors:
 - Kalee Tock
 
 author_notes:
-
+share: false
 date: "2021-12-01T00:00:00Z"
 doi: ""
 
@@ -31,7 +31,7 @@ abstract: The EXOplanet Transit Interpretation Code (EXOTIC) was used to reduce 
 summary:
 
 tags:
-- Source Themes
+
 featured: false
 
 # links:

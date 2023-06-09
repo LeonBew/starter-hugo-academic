@@ -15,7 +15,7 @@ date: '2022-09-29T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
-
+share: false
 # Show this page in the Featured widget?
 featured: false
 

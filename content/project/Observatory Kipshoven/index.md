@@ -4,7 +4,7 @@ summary: My private astronomical observatory, conducting photometry and interfer
 tags:
   - Telescope
 date: '2016-04-27T00:00:00Z'
-
+share: false
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
