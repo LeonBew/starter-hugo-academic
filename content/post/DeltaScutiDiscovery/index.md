@@ -1,12 +1,12 @@
 ---
 title: Incidental discovery of a relatively bright Delta Scuti Variable
-subtitle: Discovery that the magnitude 9.8 star HD 252752 is a Delta Scuti variable star during an exoplanet observation. 
+subtitle: Discovery during an exoplanet observation that the magnitude 9.8 star HD 252752 is a Delta Scuti variable star . 
 
 # Summary for listings and search engines
-summary: Description of the incidental discovery that magnitude 9.8 HD 252752 is a Delta Scuti variable star during an exoplanet observation. 
+summary: Description of the incidental discovery during an exoplanet observation that magnitude 9.8 HD 252752 is a Delta Scuti variable star . 
 
 # Link this post with a project
-projects: []
+projects: [ObservatoryKipshoven]
 
 # Date published
 date: '2021-03-18T00:00:00Z'

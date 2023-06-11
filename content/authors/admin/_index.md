@@ -33,7 +33,7 @@ interests:
 highlight_name: true
 ---
 
-Leon is a computer science student at RWTH Aachen University and amateur astronomer with an observatory in Germany. His research includes variable star and exoplanet photometry, precision astrometry, and stellar multiplicity. Recent work includes automization and continued operation of two research telescopes in Chile for robotic speckle interferometry observations.
+Computer science student at RWTH Aachen University and amateur astronomer with an observatory in Germany. Research includes variable star and exoplanet photometry, precision astrometry, and stellar multiplicity. Recent work includes automization and continued operation of two research telescopes in Chile for robotic speckle interferometry observations.
   - [**ResearchGate**](https://www.researchgate.net/profile/Leon-Bewersdorff)
   - [**YouTube**](https://youtube.com/leonbewersdorff)
   - [**ExoClock**](https://www.exoclock.space/team)

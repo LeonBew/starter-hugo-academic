@@ -9,7 +9,7 @@ share: false
 external_link: ''
 
 image:
-  caption: Photo of Observatory Kipshoven
+  caption: 
   focal_point: Smart
 
 url_code: ''

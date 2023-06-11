@@ -7,7 +7,7 @@ summary: Ritchey-Chrétien telescopes by GSO, Guan Sheng Optical, are a popular 
 
 
 # Link this post with a project
-projects: []
+projects: [ObservatoryKipshoven]
 
 # Date published
 date: '2022-09-29T00:00:00Z'
