@@ -1,9 +1,9 @@
 ---
 title: Testing the limits of interferometry; Resolving Charon, Pluto's Moon
-subtitle:
+subtitle: Direct imaging of Pluto's moon Charon using a 1.0-meter telescope
 
 # Summary for listings and search engines
-summary:
+summary: Direct imaging of Pluto's moon Charon using a 1.0-meter telescope
 share: false
 show_date: true
 # Link this post with a project

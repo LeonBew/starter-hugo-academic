@@ -16,7 +16,7 @@ authors:
 - David Rowe
 - Scott Dixon
 - Thomas Smith
-- Christopher Giavarini1
+- Christopher Giavarini
 - Marie Davis
 - Ron Snyder
 - Robert Buchheim

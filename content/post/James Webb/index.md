@@ -28,7 +28,6 @@ image:
 
 authors:
   - admin
-
 ---
 
 {{< youtube __UsA5HnW2I >}}

@@ -3,7 +3,7 @@ title: Incidental discovery of a relatively bright Delta Scuti Variable
 subtitle: Discovery during an exoplanet observation that the magnitude 9.8 star HD 252752 is a Delta Scuti variable star . 
 
 # Summary for listings and search engines
-summary: Description of the incidental discovery during an exoplanet observation that magnitude 9.8 HD 252752 is a Delta Scuti variable star . 
+summary: Description of the incidental discovery during an exoplanet observation that magnitude 9.8 HD 252752 is a Delta Scuti variable star, submitted to the AAVSO. 
 
 # Link this post with a project
 projects: [ObservatoryKipshoven]
@@ -28,10 +28,6 @@ image:
 
 authors:
   - admin
-
-
-
-
 ---
 
 While choosing appropriate comparison stars for an exoplanet transit of the star KELT-2 A, an aavso-approved supposedly stable star exhibited significant and abrupt variations in magnitude, plotted below as relative flux T1.
@@ -44,5 +40,3 @@ Delta Scuti variables are pulsating stars that show small, rapid changes in brig
 Spectrographic and photometric observations of these stars  provide insights into stellar evolution, oscillations, and the formation of multiple star systems.
 
 [**Link to AAVSO Entry**](https://www.aavso.org/vsx/index.php?view=detail.top&oid=2217296)
-
-

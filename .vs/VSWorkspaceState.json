@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\content",
+    "\\content\\authors",
+    "\\content\\authors\\admin",
     "\\content\\post",
-    "\\content\\post\\DeltaScutiDiscovery",
-    "\\content\\post\\MtWilson2022",
-    "\\content\\post\\Pluto",
-    "\\content\\project",
-    "\\content\\project\\Research telescope automatization",
+    "\\content\\post\\RC",
     "\\content\\publication",
-    "\\content\\publication\\WASP50b"
+    "\\content\\publication\\ExoClockCMOSCCD",
+    "\\content\\publication\\ExoClockII",
+    "\\content\\publication\\ExoClockIII"
   ],
-  "SelectedNode": "\\content\\post\\DeltaScutiDiscovery\\index.md",
+  "SelectedNode": "\\content\\authors\\admin\\_index.md",
   "PreviewInSolutionExplorer": false
 }

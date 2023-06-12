@@ -1,9 +1,9 @@
 ---
-title: Mt. Wilson 2022, 60-inch telescope
+title: Mt. Wilson 2022, 1.5-meter telescope
 subtitle: Speckle interferometry observations at Mt. Wilson in March 2022 
 
 # Summary for listings and search engines
-summary: Speckle interferometry observations at Mt. Wilson in March 2022 
+summary: Speckle interferometry observations using the 60" telesocpe at Mt. Wilson in March 2022 
 
 # Link this post with a project
 projects: []
@@ -28,10 +28,6 @@ image:
 
 authors:
   - admin
-
-
-
-
 ---
 
 Capturing speckle interferometry at night:
