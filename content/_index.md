@@ -37,7 +37,7 @@ sections:
   - block: collection
     id: collection
     content:
-      title: Publications
+      title: Publications & Posts
       subtitle: ' '
       text: |-
       count: 0
