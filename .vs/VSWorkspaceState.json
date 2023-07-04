@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\authors",
-    "\\content\\authors\\admin",
-    "\\content\\post",
-    "\\content\\post\\RC",
+    "\\content\\project",
+    "\\content\\project\\Researchtelescopeautomatization",
     "\\content\\publication",
-    "\\content\\publication\\ExoClockCMOSCCD",
-    "\\content\\publication\\ExoClockII",
-    "\\content\\publication\\ExoClockIII"
+    "\\content\\publication\\Analysis of Eight Double Star Systems",
+    "\\content\\publication\\AutomatedSpeckleInterferometry",
+    "\\content\\publication\\KnownBinariesInterferometry",
+    "\\content\\publication\\Red Dwarf Binaries",
+    "\\content\\publication\\WASP50b"
   ],
-  "SelectedNode": "\\content\\authors\\admin\\_index.md",
+  "SelectedNode": "\\content\\publication\\Red Dwarf Binaries\\index.md",
   "PreviewInSolutionExplorer": false
 }
