@@ -6,6 +6,7 @@
 # Appearance
 appearance:
   default_theme: theme_day
+  show_day_night: false
   theme_day: theme_day
   theme_night: minimal
   font: minimal
