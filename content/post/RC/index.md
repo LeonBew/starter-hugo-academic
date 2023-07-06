@@ -2,25 +2,15 @@
 title: Warning about GSO Ritchey-Chretien's Baffling ( RC resold under Orion, TS-Optics, .. )
 subtitle: Ritchey-Chrétien telescopes by GSO, Guan Sheng Optical, are a popular option in the medium price range. They unfortunately suffer from a optical design problem which limits their use.
 
-# Summary for listings and search engines
 summary: Ritchey-Chrétien telescopes by GSO, Guan Sheng Optical, are a popular option in the medium price range. They are resold by various retailers, such as Teleskop-Express/Teleskop-Service, Orion, iOptron, Astro-Tech, Apertura, TPO, ... . They unfortunately suffer from a optical design problem which limits their use. With the primary mirror baffling issue corrected, they are good telescopes with excellent value (I use an RC myself in my own observatory), but the baffling design flaw introduces significant problems "as-purchased", especially during bright moonlight. 
 
-
-# Link this post with a project
 projects: [ObservatoryKipshoven]
 
-# Date published
 date: '2022-09-29T00:00:00Z'
+share: false
 
-
-# Is this an unpublished draft?
-draft: false
-
-# Show this page in the Featured widget?
 featured: false
 
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: 
   focal_point: ''
@@ -29,7 +19,6 @@ image:
 
 authors:
   - admin
-
 ---
 
 {{< youtube nHuLrYe-oik >}}
