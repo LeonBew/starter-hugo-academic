@@ -2,24 +2,11 @@
 title: Mt. Wilson 2023 - "Automating" the 1.5-meter telescope
 subtitle: Semi-automated speckle interferometry observations at Mt. Wilson in June 2023
 
-# Summary for listings and search engines
 summary: Semi-automated interferometry observations at Mt. Wilson in June 2023
+share: false
 
-# Link this post with a project
-projects: []
-
-# Date published
 date: '2023-07-01T00:00:00Z'
 
-
-# Is this an unpublished draft?
-draft: false
-share: false
-# Show this page in the Featured widget?
-featured: false
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: 
   focal_point: ''

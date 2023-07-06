@@ -2,24 +2,11 @@
 title: James Webb Space Telescope seen from Earth after Sunshield Deployment
 subtitle: The JWST (James Webb Space Telescope) was observed live using a telescope from the desert in Chile, a few hours after it extended its sunshield while on its way to orbit L2 to take its first images. 
 
-# Summary for listings and search engines
 summary: The JWST (James Webb Space Telescope) was observed live using a telescope from the desert in Chile, a few hours after it extended its sunshield while on its way to orbit L2 to take its first images. 
 share: false
 
-# Link this post with a project
-projects: []
-
-# Date published
 date: '2022-01-03T00:00:00Z'
 
-# Is this an unpublished draft?
-draft: false
-
-# Show this page in the Featured widget?
-featured: false
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: 
   focal_point: ''

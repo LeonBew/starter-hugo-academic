@@ -4,17 +4,10 @@ summary: My private astronomical observatory, conducting photometry and interfer
 
 date: '2018-06-13T00:00:00Z'
 share: false
-# Optional external URL for project (replaces project detail page).
-external_link: ''
 
 image:
   caption: Photo of Observatory Kipshoven
   focal_point: Smart
-
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
 ---
 
 **Observatory Kipshoven** is a private observatory dedicated to scientific measurements and research, with a specific focus on photometry and speckle interferometry.

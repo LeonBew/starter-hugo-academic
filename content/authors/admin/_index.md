@@ -1,22 +1,13 @@
 ---
-# Display name
 title: Leon Bewersdorff
 
-# Full name (for SEO)
 first_name: Leon
 last_name: Bewersdorff
 
-# Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
 role: Computer Science Student at RWTH Aachen University, Amateur Astronomer
 
-
-# Short bio (displayed in user profile at end of posts)
-bio:  
-
-# Interests to show in About widget
 interests:
   - Astronomical Instrumentation
   - Exoplanets
@@ -27,9 +18,6 @@ interests:
   - Optics
   - Photometry
 
-
-
-# Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
